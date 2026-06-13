@@ -1,0 +1,9 @@
+{
+  "id": "mermaid-update",
+  "name": "Mermaid Update",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Loads Mermaid v11+ to enable timeline TD and other new features.",
+  "author": "You",
+  "isDesktopOnly": false
+}
